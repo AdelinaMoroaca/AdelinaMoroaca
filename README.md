@@ -22,6 +22,6 @@ Fueled by a Googling curiosity, I am driven by 4+ years of Tech eye, from a DM &
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AdelinaMoroaca"><img src="https://github-readme-stats.vercel.app/api?username=AdelinaMoroaca&show_icons=true&hide=stars,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AdelinaMoroaca's GitHub stats" /></a>
+<a href="http://www.github.com/AdelinaMoroaca"><img src="https://github-readme-stats.vercel.app/api?username=AdelinaMoroaca&show_icons=true&hide=stars,&count_private=true&title_color=000000&text_color=444e59&icon_color=84cc16&bg_color=ffffff&hide_border=true&show_icons=true" alt="AdelinaMoroaca's GitHub stats" /></a>
 
-<a href="https://github.com/AdelinaMoroaca" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinaMoroaca&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AdelinaMoroaca" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinaMoroaca&langs_count=10&title_color=000000&text_color=444e59&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
